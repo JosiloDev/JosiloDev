@@ -58,6 +58,15 @@ Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo pr
 />
 <img 
     align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
