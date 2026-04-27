@@ -1,4 +1,4 @@
-# 👩🏻‍💻 José Lucas
+#  💻 José Lucas
 
 **`Programador Front-End`**
 
