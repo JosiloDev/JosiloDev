@@ -2,9 +2,9 @@
 
 **`Programador Front-End`**
 
-<p>Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo programação desde 2023 e gosto de aprender cada vez mais mesmo fora da escola, como no youtube ou no [CursoemVideo](https://www.cursoemvideo.com/).
+Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo programação desde 2023 e gosto de aprender cada vez mais mesmo fora da escola, como no youtube ou no [CursoemVideo](https://www.cursoemvideo.com/).
 <br>Redes Sociais: [Instagram](https://www.instagram.com/lucxz.fr/); [GitHub](https://github.com/JosiloDev)
-</p>
+
 
 
 <p align="left">
