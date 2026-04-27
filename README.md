@@ -2,7 +2,7 @@
 
 **`Programador Front-End`**
 
-"Meu nome é José Lucas Monteiro Farias, curso o 3° período de Informática no IFCE, estudo programação desde 2023 e gosto de aprender cada vez mais mesmo fora da escola, como no youtube ou no " "[CursoemVideo](https://www.cursoemvideo.com/)"
+Meu nome é José Lucas Monteiro Farias, curso o 3° período de Informática no IFCE, estudo programação desde 2023 e gosto de aprender cada vez mais mesmo fora da escola, como no youtube ou no [CursoemVideo](https://www.cursoemvideo.com/)"
 
 <p align="left">
     <a href="https://github.com/JosiloDev?tab=repositories&sort=stargazers">
