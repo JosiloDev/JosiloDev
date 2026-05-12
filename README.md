@@ -88,15 +88,14 @@ Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo pr
 
 ### 📊 Estatísticas
 
-
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=JosiloDev&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=JosiloDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
 
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiloDev&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiloDev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
