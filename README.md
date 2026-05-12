@@ -86,7 +86,4 @@ Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo pr
 <br/>
 <br/>
 
-### 📌 Projetos em Destaque
-
-[![Projeto Cordel]](https://github.com/JosiloDev/projeto-cordel)
 
