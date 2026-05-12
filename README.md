@@ -88,5 +88,5 @@ Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo pr
 
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosiloDev&repo=NOME-DO-REPOSITORIO&theme=tokyonight)](https://github.com/JosiloDev/projeto-cordel)
+[![Projeto Cordel]](https://github.com/JosiloDev/projeto-cordel)
 
