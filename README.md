@@ -1,25 +1,20 @@
 #  💻 José Lucas
-
-**`Programador Front-End`**
-
-Meu nome é José Lucas, curso o 3° período de Informática no IFCE, estudo programação desde 2023 e gosto de aprender cada vez mais mesmo fora da escola, como no youtube ou no [CursoemVideo](https://www.cursoemvideo.com/).
-<br>Redes Sociais: [Instagram](https://www.instagram.com/lucxz.fr/) ; [GitHub](https://github.com/JosiloDev)
-
-
-
+**`Front-End Developer`**
+My name is José Lucas, I'm in the 3rd semester of Computer Science at IFCE, I've been studying programming since 2023 and I love learning more even outside of school, like on YouTube or [CursoemVideo](https://www.cursoemvideo.com/).
+<br>Social Media: [Instagram](https://www.instagram.com/lucxz.fr/) ; [GitHub](https://github.com/JosiloDev)
 <p align="left">
     <a href="https://github.com/JosiloDev?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JosiloDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total GitHub stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JosiloDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/JosiloDev?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JosiloDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JosiloDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
