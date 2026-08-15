@@ -1,6 +1,7 @@
-#  💻 José Lucas
-**`Future Full-Stack Developer`**
-My name is José Lucas, I'm in the 4th semester of Information Technology at IFCE, I've been studying programming since 2023 and I love learning more even outside of school, like on YouTube or [CursoemVideo](https://www.cursoemvideo.com/).
+# 💻 José Lucas
+**`Full-Stack Student Developer`**  
+My name is José Lucas, and I'm currently in the 4th semester of the Information Technology technical program at IFCE 🇧🇷. I have been studying programming since 2023, and I love expanding my knowledge through autonomous learning, exploring computing concepts outside the classroom on platforms like YouTube and [CursoemVideo](https://www.cursoemvideo.com/).
+
 <br>Social Media: [Instagram](https://www.instagram.com/lucxz.fr/) ; [GitHub](https://github.com/JosiloDev)
 <p align="left">
     <a href="https://github.com/JosiloDev?tab=repositories&sort=stargazers">
@@ -19,10 +20,9 @@ My name is José Lucas, I'm in the 4th semester of Information Technology at IFC
     </a>
 </p>
 
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
