@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **José Lucas**, a Brazilian student passionate about technology and software development. 🇧🇷 I'm currently in the 4th semester of the Information Technology technical program at **IFCE**, and I've been studying programming since 2023. I enjoy expanding my knowledge through independent learning, online courses, and hands-on projects, always exploring new concepts beyond the classroom. I'm particularly interested in web development, programming, and computer science, and my goal is to become a well-rounded **Full-Stack Developer**. I'm always curious about how things work and excited to turn ideas into code. 💜
+Hey! I'm **José Lucas**, a Brazilian student passionate about technology and software development. 🇧🇷 I'm currently in the 4th semester of the Information Technology technical program at **IFCE**, and I've been studying programming since 2023. I enjoy expanding my knowledge through independent learning, online courses, and hands-on projects, always exploring new concepts beyond the classroom. I'm particularly interested in web development, programming, and computer science, and my goal is to become a well-rounded **Full-Stack Developer**. I'm always curious about how things work and excited to turn ideas into code. 
 
 
 ## 🛠️ Languages & Technologies
@@ -80,7 +80,7 @@ I'm always happy to connect with other developers, exchange ideas, and learn fro
 
   <br /><br />
 
-  **Thanks for visiting my profile! 💜**
+  **Thanks for visiting my profile! **
 
   *Keep learning. Keep building. Keep growing.*
 
