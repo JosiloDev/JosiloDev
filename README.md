@@ -1,5 +1,4 @@
-# 💜 José Lucas | Developer in Progress
-
+# José Lucas | Full-Stack Developer
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=180&section=header&text=Hello,%20World!&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%" alt="Purple waving header saying Hello, World!" />
@@ -67,27 +66,7 @@ Hey! I'm **José Lucas**, a Brazilian student passionate about technology and so
 
 </div>
 
----
 
-## 🚀 Featured Projects
-
-Here are some projects I'm building as I continue learning and improving my development skills.
-
-<!-- Replace these examples with links to your actual repositories. -->
-
-- 🔹 **Project One** — Add a short description of a project you're proud of.
-- 🔹 **Project Two** — Showcase something that demonstrates your programming skills.
-- 🔹 **Project Three** — Highlight a project that challenged you or taught you something new.
-
-📂 **[Explore all my repositories →](https://github.com/JosiloDev?tab=repositories)**
-
----
-
-## 🌱 Currently Learning
-
-I'm continuously improving my skills by building interactive websites with HTML, CSS, and JavaScript, strengthening my programming fundamentals with Python and Java, learning software development tools and best practices, and solving increasingly challenging programming problems. Every project is an opportunity to learn something new and become a better developer. 💜
-
----
 
 ## 🤝 Let's Connect!
 
