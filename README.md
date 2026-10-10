@@ -80,9 +80,7 @@ I'm always happy to connect with other developers, exchange ideas, and learn fro
 
   <br /><br />
 
-  **Thanks for visiting my profile! **
-
-  *Keep learning. Keep building. Keep growing.*
+  **Thanks for visiting my profile!**
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=100&section=footer" width="100%" alt="Purple waving footer" />
 
