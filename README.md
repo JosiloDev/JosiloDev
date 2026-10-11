@@ -27,7 +27,7 @@ Hey! I'm José Lucas, a Brazilian student passionate about technology and softwa
 
 Web Development
 
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, React"/>
 
 Programming Languages
 
